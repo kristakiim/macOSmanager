@@ -33,6 +33,13 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask cleanshot
     brew install --cask clop
     brew install --cask wpsoffice
+    brew install --cask webcatalog
+    brew install --cask logi-options+
+    brew install --cask spotify
+    brew install --cask chatgpt
+    brew install --cask yandex
+    brew install --cask perplexity
+    brew install --cask google-chrome
 
     brew install --formula mas
 
