@@ -22,7 +22,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask swiftbar
     brew install --cask hiddenbar
     brew install --cask maccy
-    brew install --cask the-unarchiver
+    brew install --cask keka
     brew install --cask cleanmymac
     brew install --cask raycast
     brew install --cask whisky
